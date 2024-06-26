@@ -1875,3 +1875,9 @@ hr {
     object-fit: cover; /* Makes the video cover its container */
 }
 
+.background-img {
+    width: 100%; /* Adjust based on your needs */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Cover the area without stretching the image */
+}
+
